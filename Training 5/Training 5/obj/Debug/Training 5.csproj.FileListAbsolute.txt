@@ -1,0 +1,30 @@
+C:\Training\Training 5\Training 5\bin\Debug\NUnit3.TestAdapter.dll
+C:\Training\Training 5\Training 5\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Training\Training 5\Training 5\bin\Debug\nunit.engine.dll
+C:\Training\Training 5\Training 5\bin\Debug\nunit.engine.api.dll
+C:\Training\Training 5\Training 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Training\Training 5\Training 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Training\Training 5\Training 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Training\Training 5\Training 5\bin\Debug\Training 5.dll.config
+C:\Training\Training 5\Training 5\bin\Debug\Training 5.dll
+C:\Training\Training 5\Training 5\bin\Debug\Training 5.pdb
+C:\Training\Training 5\Training 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Training\Training 5\Training 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Training\Training 5\Training 5\bin\Debug\Newtonsoft.Json.dll
+C:\Training\Training 5\Training 5\bin\Debug\nunit.framework.dll
+C:\Training\Training 5\Training 5\bin\Debug\System.ValueTuple.dll
+C:\Training\Training 5\Training 5\bin\Debug\TechTalk.SpecFlow.dll
+C:\Training\Training 5\Training 5\bin\Debug\WebDriver.dll
+C:\Training\Training 5\Training 5\bin\Debug\WebDriver.Support.dll
+C:\Training\Training 5\Training 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Training\Training 5\Training 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Training\Training 5\Training 5\bin\Debug\Newtonsoft.Json.xml
+C:\Training\Training 5\Training 5\bin\Debug\nunit.framework.pdb
+C:\Training\Training 5\Training 5\bin\Debug\nunit.framework.xml
+C:\Training\Training 5\Training 5\bin\Debug\WebDriver.xml
+C:\Training\Training 5\Training 5\bin\Debug\WebDriver.Support.xml
+C:\Training\Training 5\Training 5\obj\Debug\Training 5.csprojAssemblyReference.cache
+C:\Training\Training 5\Training 5\obj\Debug\Training 5.csproj.CoreCompileInputs.cache
+C:\Training\Training 5\Training 5\obj\Debug\Training 5.csproj.CopyComplete
+C:\Training\Training 5\Training 5\obj\Debug\Training 5.dll
+C:\Training\Training 5\Training 5\obj\Debug\Training 5.pdb
